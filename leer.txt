@@ -1,0 +1,11 @@
+Validar las entradas de texto
+
+completar el xml de Historial con todos los tributos de Historial
+
+Terminar la opcion de buscar para presentar todos los atributos
+
+Añadir a cada arreglo un elemento
+
+TERMINAR LOS CASOS PARA RESERVAR LIBRO POSGRADO Y PROFESOR
+
+MOSTRAR CUANDO EL LIBRO NO HAY SIDO ENCONTRADO

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<catalog>
+  <book id="001">
+        <title>Orgullo y Prejuicio</title>
+    <author>Jane Austen</author>
+    <descipcion>Novela romántica</descipcion>
+    <categoria>Literatura</categoria>
+    <cantidad>10</cantidad>  
+    <raiting>+13</raiting>
+  </book>
+   <book id="002">
+        <title>La insoportable levedad del ser</title>
+    <author>Milan Kundera</author>
+    <descipcion>Novela erótica</descipcion>
+    <categoria>Literatura</categoria>
+    <cantidad>5</cantidad>  
+    <raiting>+18</raiting>
+  </book>
+      <book id="003">
+        <title>It</title>
+    <author>Stephen King</author>
+    <descipcion>Novela de terror</descipcion>
+    <categoria>Ciencia y Ficción</categoria>
+    <cantidad>4</cantidad>  
+    <raiting>+16</raiting>
+  </book>
+      <book id="004">
+        <title>Alicia en el país de las maravillas</title>
+    <author>Jane Austen</author>
+    <descipcion>Novela</descipcion>
+    <categoria>Literatura</categoria>
+    <cantidad>10</cantidad>  
+    <raiting>+13</raiting>
+  </book>
+</catalog>

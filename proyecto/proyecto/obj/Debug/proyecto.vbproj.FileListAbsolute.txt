@@ -1,0 +1,10 @@
+C:\Users\Diego\Documents\Visual Studio 2017\Projects\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\Diego\Documents\Visual Studio 2017\Projects\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\Diego\Documents\Visual Studio 2017\Projects\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Diego\Documents\Visual Studio 2017\Projects\proyecto\proyecto\bin\Debug\proyecto.xml
+C:\Users\Diego\Documents\Visual Studio 2017\Projects\proyecto\proyecto\obj\Debug\proyecto.vbprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2017\Projects\proyecto\proyecto\obj\Debug\proyecto.Resources.resources
+C:\Users\Diego\Documents\Visual Studio 2017\Projects\proyecto\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\Diego\Documents\Visual Studio 2017\Projects\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\Diego\Documents\Visual Studio 2017\Projects\proyecto\proyecto\obj\Debug\proyecto.xml
+C:\Users\Diego\Documents\Visual Studio 2017\Projects\proyecto\proyecto\obj\Debug\proyecto.pdb
